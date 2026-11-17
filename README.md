@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=8th+Grade+Student+%F0%9F%8E%93;Learning+to+code+one+bug+at+a+time+%F0%9F%90%9B;Building+things+on+the+internet" alt="Student Typing"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=8th+Grade+Student+%F0%9F%8E%93;Learning+to+code+one+bug+at+a+time+%F0%9F%90%9B;Building+things+on+the+internet" alt="Student Typing"/>
 </p>
-
 
 ## ⌨️ About Me
 
