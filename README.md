@@ -1,8 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,14&height=200&section=header&text=Hi!+I'm+FAIZAN+KHAN+&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student+Coder+%40+K12+Online+School&descAlignY=60" width="100%"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,14&height=200&section=header&text=Hi!+I'm+FAIZAN+KHAN&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student+Coder+%40+K12+Online+School&descAlignY=60" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=8th+Grade+Student+🎓;Learning+to+code+one+bug+at+a+time+🐛;Building+things+on the+internet;" alt="Student Typing"/>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=8th+Grade+Student+%F0%9F%8E%93;Learning+to+code+one+bug+at+a+time+%F0%9F%90%9B;Building+things+on+the+internet" alt="Student Typing"/>
+</p>
+
 
 ## ⌨️ About Me
 
